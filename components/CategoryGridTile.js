@@ -30,6 +30,7 @@ const styles = StyleSheet.create({
     height: 150,
     borderRadius: 10,
     overflow: "hidden",
+    elevation: 5,
   },
   container: {
     flex: 1,
